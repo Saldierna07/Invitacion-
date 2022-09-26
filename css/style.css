@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'teko';
+    src: url('../fonts/Teko-Bold.ttf');
+}
+
+.log {
+    width: 80px;
+}
+
+.logocarrera {
+    width: 403px;
+}
+
+img {
+    text-align: center;
+}
+
+.tit {
+    text-align: center;
+    font-size: 50px;
+}
+
+h3 {
+    text-align: center;
+}
+
+body {
+    font-family: 'teko';
+}
+
+.a {
+    font-size: 25px;
+}
+
+.item {
+    text-align: center;
+    color: aqua;
+}
+
+.hover:hover {
+    filter: opacity(.5);
+}
